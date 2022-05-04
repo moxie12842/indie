@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Roundabout.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Roundabout instance 10000" x="10" y="10" width="312" height="298" frameX="0" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10001" x="332" y="10" width="314" height="312" frameX="-50" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10002" x="656" y="10" width="288" height="317" frameX="-100" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10003" x="954" y="10" width="291" height="316" frameX="-150" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10004" x="1255" y="10" width="302" height="309" frameX="-200" frameY="-100" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10005" x="1567" y="10" width="311" height="303" frameX="-250" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10006" x="10" y="337" width="301" height="298" frameX="-300" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10007" x="321" y="337" width="318" height="293" frameX="-350" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10008" x="649" y="337" width="330" height="292" frameX="-400" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10009" x="989" y="337" width="329" height="276" frameX="-450" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10010" x="1328" y="337" width="323" height="288" frameX="-500" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10011" x="1661" y="337" width="317" height="288" frameX="-550" frameY="-275" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10012" x="10" y="10" width="312" height="298" frameX="-600" frameY="-300" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10013" x="332" y="10" width="314" height="312" frameX="-650" frameY="-275" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10014" x="656" y="10" width="288" height="317" frameX="-700" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10015" x="954" y="10" width="291" height="316" frameX="-750" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10016" x="1255" y="10" width="302" height="309" frameX="-800" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10017" x="1567" y="10" width="311" height="303" frameX="-850" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10018" x="10" y="337" width="301" height="298" frameX="-900" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10019" x="321" y="337" width="318" height="293" frameX="-950" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10020" x="649" y="337" width="330" height="292" frameX="-1000" frameY="-100" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10021" x="989" y="337" width="329" height="276" frameX="-1050" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10022" x="1328" y="337" width="323" height="288" frameX="-1100" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10023" x="1661" y="337" width="317" height="288" frameX="-1050" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10024" x="10" y="10" width="312" height="298" frameX="-1000" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10025" x="332" y="10" width="314" height="312" frameX="-950" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10026" x="656" y="10" width="288" height="317" frameX="-900" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10027" x="954" y="10" width="291" height="316" frameX="-850" frameY="-275" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10028" x="1255" y="10" width="302" height="309" frameX="-800" frameY="-300" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10029" x="1567" y="10" width="311" height="303" frameX="-750" frameY="-275" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10030" x="10" y="337" width="301" height="298" frameX="-700" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10031" x="321" y="337" width="318" height="293" frameX="-650" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10032" x="649" y="337" width="330" height="292" frameX="-600" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10033" x="989" y="337" width="329" height="276" frameX="-550" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10034" x="1328" y="337" width="323" height="288" frameX="-500" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10035" x="1661" y="337" width="317" height="288" frameX="-450" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10036" x="10" y="10" width="312" height="298" frameX="-400" frameY="-100" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10037" x="332" y="10" width="314" height="312" frameX="-350" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10038" x="656" y="10" width="288" height="317" frameX="-300" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10039" x="954" y="10" width="291" height="316" frameX="-250" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10040" x="1255" y="10" width="302" height="309" frameX="-200" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10041" x="1567" y="10" width="311" height="303" frameX="-150" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10042" x="10" y="337" width="301" height="298" frameX="-100" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10043" x="321" y="337" width="318" height="293" frameX="-50" frameY="-275" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10044" x="649" y="337" width="330" height="292" frameX="0" frameY="-300" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10045" x="989" y="337" width="329" height="276" frameX="50" frameY="-275" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10046" x="1328" y="337" width="323" height="288" frameX="100" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10047" x="1661" y="337" width="317" height="288" frameX="150" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10048" x="10" y="10" width="312" height="298" frameX="200" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10049" x="332" y="10" width="314" height="312" frameX="250" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10050" x="656" y="10" width="288" height="317" frameX="300" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10051" x="954" y="10" width="291" height="316" frameX="350" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10052" x="1255" y="10" width="302" height="309" frameX="400" frameY="-100" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10053" x="1567" y="10" width="311" height="303" frameX="450" frameY="-125" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10054" x="10" y="337" width="301" height="298" frameX="500" frameY="-150" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10055" x="321" y="337" width="318" height="293" frameX="550" frameY="-175" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10056" x="649" y="337" width="330" height="292" frameX="600" frameY="-200" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10057" x="989" y="337" width="329" height="276" frameX="650" frameY="-225" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10058" x="1328" y="337" width="323" height="288" frameX="700" frameY="-250" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10059" x="1661" y="337" width="317" height="288" frameX="750" frameY="-275" frameWidth="333" frameHeight="320"/>
+</TextureAtlas>
